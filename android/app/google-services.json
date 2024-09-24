@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "718653914660",
+    "project_id": "firbb-ec507",
+    "storage_bucket": "firbb-ec507.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718653914660:android:f6b2cc3e9f724394de22b1",
+        "android_client_info": {
+          "package_name": "com.example.flutterproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCP84k6g3-yZmqMe0YLGSeO46_Pqh5j67c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
